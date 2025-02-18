@@ -1,5 +1,5 @@
-let nome = "Naruto"
-let nivel = 10000000
+let nome = ""
+let nivel = ""
 let categoria 
 if (nivel <= 1000){
 categoria = "ferro"
